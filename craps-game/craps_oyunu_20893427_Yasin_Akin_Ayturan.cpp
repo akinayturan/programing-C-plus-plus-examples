@@ -1,11 +1,3 @@
-//Yasin Akýn Ayturan ~~ 20893427 ~~ Craps Oyunu
-/*
-Craps oyunu kasa ve oyuncu arasýnda oynanýr. Oyuncunun iki zarý atmasý ile oyun baþlar.
-ilk atýþta zarlarýn toplamý 7 veya 11 olursa oyuncu kazanýyor. 2, 3 veya 12 olursa kasa  kazanýr.
-Eðer oyuncunun attýðý iki zarý toplam 4,5,6,8,9 olursa oyuncu zar atmaya devam eder. Hedefi gelen numarayý tutturmaktýr.
-Ayný toplamý bulana kadar peþ peþe zar atar. Ayný toplamý elde ederse kazanýr. Atýþlarý sýrasýnda 7 gelirse kasa kazanýr.
-*/
-
 #include <iostream>
 #include <conio.h>
 #include <time.h>
